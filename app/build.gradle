@@ -45,4 +45,6 @@ dependencies {
 
     //basic architecture component
     implementation 'com.github.Luteoos:Android--MVVMLib:3.1.0x'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.0.0'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.0.0'
 }

@@ -11,5 +11,6 @@ class MainScreenActivity : BaseActivityMVVM<MainScreenViewModel>() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         viewModel = getViewModel(this)
+
     }
 }
